@@ -1,7 +1,12 @@
 {
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
+    ],
     "profile": {
-        "name": "User X",
-        "total_dana": "RP.10.000.000"
+        "name": "typicode"
     },
     "reksaSaham": [
         {
