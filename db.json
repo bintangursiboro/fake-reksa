@@ -2,20 +2,5 @@
     "profile": {
         "name": "User X",
         "total_dana": "RP.10.000.000"
-    },
-    "reksaSaham": [
-        {
-            "id": 1,
-            "title_reksa": "Reksa Dana Mega Dana Kas",
-            "riwayat_keuntungan": {
-                "bln_enam": "3.95 %/Thn",
-                "tahun_satu": "8.98 %/Thn",
-                "tahun_dua": "17.72 %/Thn",
-                "tahun_tiga": "24.5 %/Thn",
-                "tahun_empat": "32.93 %/Thn"
-            },
-            "jenis": "Pasar Uang",
-            "min_pembelian": "IDR 100,000.00"
-        }
-    ]
+    }
 }
